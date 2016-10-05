@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+0 at first a repository is just an ordinary directory
+1 with the command "git init" (prompt on the directory location)
+  a hidden file named .git is created
+2 that file has metadata about the directory which is now a repository
+3 the hidden file can be see with the command "ls -a"
+4 the status of the repository can be see with the command "git status"
+5 at first there are no commits
+6 this is because I may want to change the contents of the repository
+  (a directory with the .git file) BEFORE I commit for the first time
