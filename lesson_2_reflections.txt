@@ -36,3 +36,7 @@ How would branches help?
 3 to commit a change in the new branch use "git checkout 'branch name'" to change branch and then
   use "git add 'filename.xxx'" and "git commit" (after making the experimental changes in the file(s))
 
+How do the diagrams help you visualize the branch structure?
+
+1 well...an image is worth a thousand words...
+
