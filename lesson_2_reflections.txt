@@ -17,7 +17,7 @@ What value do you think it offers?
 2 with the command "git status" it can be see that the files now appear as "new file"
   (instead of "untracked file")
 3 the new files will be added to the repository in the NEXT commit
-4 it is possible to remove files from the staging area with the command "git CHECK THIS..."
+4 it is possible to remove files from the staging area with the command "git reset 'filename.xxx'"
 5 this offers a greater level of control about what is and isn't added in the commits
 
 
