@@ -9,3 +9,15 @@ What happens when you initialize a repository? Why do you need to do it?
 5 at first there are no commits
 6 this is because I may want to change the contents of the repository
   (a directory with the .git file) BEFORE I commit for the first time
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+1 you add files to the virtual staging area with the command "git add 'filename.xxx'"
+2 with the command "git status" it can be see that the files now appear as "new file"
+  (instead of "untracked file")
+3 the new files will be added to the repository in the NEXT commit
+4 it is possible to remove files from the staging area with the command "git CHECK THIS..."
+5 this offers a greater level of control about what is and isn't added in the commits
+
+
