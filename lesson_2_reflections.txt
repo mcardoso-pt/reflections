@@ -20,4 +20,9 @@ What value do you think it offers?
 4 it is possible to remove files from the staging area with the command "git reset 'filename.xxx'"
 5 this offers a greater level of control about what is and isn't added in the commits
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+1 use the command "git add 'filename.xxx'" to add to the staging area ONLY the files related
+  to the logical change
+2 then use the command "git commit" and only those files will be considered in the commit
+  (even if others have been changed since the last commit)
