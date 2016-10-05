@@ -26,3 +26,13 @@ How can you use the staging area to make sure you have one commit per logical ch
   to the logical change
 2 then use the command "git commit" and only those files will be considered in the commit
   (even if others have been changed since the last commit)
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+1 use "git branch" to check existing branches - there is always at least the master branch
+2 use "git branch 'branch name'" to create a new branch - this allows for experimenting parallel
+  to the main version (the master branch)
+3 to commit a change in the new branch use "git checkout 'branch name'" to change branch and then
+  use "git add 'filename.xxx'" and "git commit" (after making the experimental changes in the file(s))
+
