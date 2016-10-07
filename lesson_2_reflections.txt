@@ -40,3 +40,10 @@ How do the diagrams help you visualize the branch structure?
 
 1 well...an image is worth a thousand words...
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+1 the result is a combination of both branches
+2 the commits of both branches will appear chronologically when "git log" is used
+  before the chronology corresponded to parentage, and now it won't necessarily be like that anymore
+3 the diagram representation is a logical representation...
+
