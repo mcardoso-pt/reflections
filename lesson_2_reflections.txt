@@ -47,3 +47,7 @@ What is the result of merging two branches together? Why do we represent it in t
   before the chronology corresponded to parentage, and now it won't necessarily be like that anymore
 3 the diagram representation is a logical representation...
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+1 the pro of automatic is the productivity
+2 the con of automatic is that it can't always be done or could lead to errors - user input is necessary
