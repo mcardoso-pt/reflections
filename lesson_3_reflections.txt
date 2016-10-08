@@ -23,7 +23,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without git/github it would be about saving different versions of files and exchanging
+    those versions with my collaborators through email or other means. This could be practical
+    for very small, single file projects. Using git/github has a learning curve which is time
+    consuming at first. There is also some "personal time overhead" associated with its use.
+    However, as the number of collaborators and/or the size of the projects increases, the
+    utility of version control software starts to be more and more evident. It helps to manage
+    the complexity of large projects and teams.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
