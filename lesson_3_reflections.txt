@@ -34,5 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Experimenting with changes before altering the main version. This makes it possible to
+    try new things while maintaining a fully functional main version.
 
